@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Leh</string>
+    <string name="title_activity_welcome">Fourth Screen</string>
+    <string name="title_activity_welcome3">Third Screen</string>
+    <string name="title_activity_welcome2">Second Screen</string>
+    <string name="title_activity_welcome1">First Screen</string>
+
+
+    <string name="next">NEXT</string>
+
+    <string name="start">Thanks</string>
+
+    <string name="slide_1_title">Wah Wah, Leh!</string>
+    <string name="slide_1_desc">Heaven on Earth</string>
+
+    <string name="slide_2_title">Zanskar river</string>
+    <string name="slide_2_desc">The Chadar Trek</string>
+
+    <string name="slide_3_title">Pangong Tso Lake</string>
+    <string name="slide_3_desc">The unending lake from 3 Idiots</string>
+
+    <string name="slide_4_title">Tso Moriri Lake</string>
+    <string name="slide_4_desc">Where you can stay forever</string>
+
+    <string name="slide_5_title">Stargazing: The Milky Way</string>
+    <string name="slide_5_desc">Can’t spot celebrities, but you can do Stargazing</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
