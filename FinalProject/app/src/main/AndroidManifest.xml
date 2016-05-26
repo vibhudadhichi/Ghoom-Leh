@@ -24,6 +24,9 @@ xmlns:android="http://schemas.android.com/apk/res/android" package="com.example.
     <activity android:name="com.example.vibhu.finalproject.MainActivity" android:label="@string/title_activity_main"
         android:theme="@style/AppTheme"></activity>
 
+    <activity android:name="com.example.vibhu.finalproject.Thanks" android:label="Thanks"
+        android:theme="@style/AppTheme"></activity>
+
 
 
     <activity android:name="com.example.vibhu.finalproject.MainActivity2" android:label="@string/title_activity_main2"
