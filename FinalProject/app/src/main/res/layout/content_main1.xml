@@ -12,6 +12,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/text_margin"
-        android:text="@string/large_text" />
+        android:text="Nubra is a tri-armed valley located to the north east of Ladakh valley. Diskit the capital of Nubra is about 150 km north from Leh town, the capital of Ladakh district, India. Local scholars say that its original name was Ldumra (the valley of flowers). The Shyok River meets the Nubra or Siachan River to form a large valley that separates the Ladakh and Karakoram Ranges. The Shyok river is a tributary of the Indus river. The average altitude of the valley is about 10,000 ft. i.e. 3048 metres above the sea level. The common way to access this valley is to travel over the Khardung La pass from Leh town. Foreign nationals are required to get a Protected area permit to visit the Nubra Valley. Since 1 May 2014 Indian citizens are no longer required to get an Inner Line Permit to visit the valley." />
 
 </android.support.v4.widget.NestedScrollView>

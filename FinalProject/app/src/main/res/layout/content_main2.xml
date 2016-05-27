@@ -12,6 +12,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/text_margin"
-        android:text="@string/large_text" />
+        android:text="The Zanskar River is a north-flowing tributary of the Indus. In its upper reaches, the Zanskar has two main branches. First of these, the Doda, has its source near the Pensi-la 4,400 m (14,400 ft) mountain-pass and flows south-eastwards along the main Zanskar valley leading towards Padum, the capital of Zanskar. The second branch is formed by two main tributaries known as Kargyag river, with its source near the Shingo La 5,091 m (16,703 ft), and Tsarap river, with its source near the Baralacha-La. These two rivers unite below the village of Purne to form the Lungnak river (also known as the Lingti or Tsarap). The Lungnak river then flows north-westwards along a narrow gorge towards Zanskar's central valley (known locally as gzhung khor), where it unites with the Doda river to form the main Zanskar river. This river then takes a north-eastern course through the dramatic Zanskar Gorge until it joins the Indus near Nimmu in Ladakh." />
 
 </android.support.v4.widget.NestedScrollView>
