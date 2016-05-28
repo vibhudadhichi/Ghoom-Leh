@@ -12,6 +12,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_margin="@dimen/text_margin"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textSize="16sp"
         android:text="Tso Moriri or Lake Moriri, is a lake in the Ladakhi part of the Changthang Plateau (literally: northern plains) in Jammu and Kashmir in northern India. The lake is at an altitude of 4,522 m (14,836 ft). It is the largest of the high altitude lakes entirely within India and entirely within Ladakh in this Trans-Himalayan biogeographic region. The official name of the land and water reserve here is the Tso Moriri Wetland Conservation Reserve. The lake is fed by springs and snow-melt from neighboring mountains. Most water enters the lake in two major stream systems, one entering the lake from the north, the other from the southwest. Both stream systems include extensive marshes where they enter the lake. It formerly had an outlet to the south, but this has become blocked and the lake has become a endorheic lake. The lake is oligotrophic in nature, and its waters are alkaline. Accessibility to the lake is largely limited to summer season, though Karzok on the northwest shore and the military facilities on the eastern shores have year-round habitation" />
 
 </android.support.v4.widget.NestedScrollView>
