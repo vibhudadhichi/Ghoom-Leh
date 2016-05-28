@@ -192,23 +192,19 @@ public class WelcomeActivity extends AppCompatActivity {
         }
     }
 
-    public void fourthScreen(View view)
-    {
+    public void fourthScreen(View view) {
         startActivity(new Intent(WelcomeActivity.this, MainActivity.class));
     }
 
-    public void thirdScreen(View view)
-    {
+    public void thirdScreen(View view) {
         startActivity(new Intent(WelcomeActivity.this, MainActivity3.class));
     }
 
-    public void secondScreen(View view)
-    {
+    public void secondScreen(View view) {
         startActivity(new Intent(WelcomeActivity.this, MainActivity2.class));
     }
 
-    public void firstScreen(View view)
-    {
+    public void firstScreen(View view) {
         startActivity(new Intent(WelcomeActivity.this, MainActivity1.class));
     }
 }
