@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Tso Moriri Lake", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Accessibility to the lake is largely limited to summer season, though Karzok on the northwest shore and the military facilities on the eastern shores have year-round habitation.", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });

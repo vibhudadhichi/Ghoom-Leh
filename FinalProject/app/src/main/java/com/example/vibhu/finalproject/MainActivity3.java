@@ -17,10 +17,12 @@ public class MainActivity3 extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
+
+
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Pangong Tso Lake", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Pangong Tso can be reached in a five-hour drive from Leh, most of it on a rough and dramatic mountain road. ", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });

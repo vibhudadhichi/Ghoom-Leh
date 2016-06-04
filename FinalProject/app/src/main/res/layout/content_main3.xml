@@ -9,11 +9,12 @@
     tools:showIn="@layout/activity_main3">
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:layout_margin="@dimen/text_margin"
         android:fontFamily="sans-serif-smallcaps"
         android:textSize="16sp"
+        android:textColor="#736F6E"
         android:text="Pangong Tso, Tibetan for high grassland lake, also referred to as Pangong Lake, is an endorheic lake in the Himalayas situated at a height of about 4,350 m (14,270 ft). It is 134 km (83 mi) long and extends from India to China. Approximately 60% of the length of the lake lies in China. The lake is 5 km (3.1 mi) wide at its broadest point. All together it covers 604 km2. During winter the lake freezes completely, despite being saline water. It is not part of Indus river basin area and geographically a separate land locked river basin. The lake is in the process of being identified under the Ramsar Convention as a wetland of international importance. This will be the first trans-boundary wetland in South Asia under the convention." />
 
 </android.support.v4.widget.NestedScrollView>

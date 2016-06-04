@@ -20,7 +20,7 @@ public class MainActivity1 extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Nubra Valley", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "Nubra is a high altitude cold desert with rare precipitation and scant vegetation except along river beds.", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });

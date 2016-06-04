@@ -9,6 +9,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
+
+
+
+
         <activity
             android:name="com.example.vibhu.finalproject.Splash"
             android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar">
@@ -50,5 +54,6 @@
             android:name="com.example.vibhu.finalproject.MainActivity1"
             android:label="Nubra Valley"
             android:theme="@style/AppTheme"></activity>
-    </application>
+        </application>
+
 </manifest>

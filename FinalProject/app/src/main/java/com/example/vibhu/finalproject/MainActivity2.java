@@ -20,7 +20,7 @@ public class MainActivity2 extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "Zanskar River", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "In winter when the road to Zanskar is closed by snow on the high passes, the only overland route to Padum is by walking along the frozen river.", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
